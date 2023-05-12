@@ -1,2 +1,2 @@
-# Practice-Projects
+# Projects
 R statistical analysis 
