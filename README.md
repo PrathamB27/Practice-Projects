@@ -1,2 +1,5 @@
 # Projects
-R statistical analysis 
+
+# Session level ad effectiveness and predicting the "clickability" of an ad. 
+
+
